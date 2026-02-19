@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+matplotlib
+numpy
+pandas
+tqdm
+scikit-learn
+jupyter
+pillow
+kagglehub
+streamlit
